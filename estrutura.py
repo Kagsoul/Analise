@@ -1,3 +1,4 @@
+#talvez preciso analisa melhor esta estrutura
 import json
 from datetime import datetime
 import os
