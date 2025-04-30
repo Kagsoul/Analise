@@ -30,3 +30,5 @@ resposta = input("Essa medida é ideal para representar o seu desempenho? (Sim/N
 print(f"Você respondeu: {resposta}")
 resposta = input (f'{resposta} justifica sua resposta?\n')
 
+calcular_variancia()
+valores_maior()
